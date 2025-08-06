@@ -1,7 +1,7 @@
 # github-actions-c
 
 ### Steps to Download and Run the C program
-1. Clone the Repository:
+1. Clone the Repository: 
 
 ```
 git clone https://github.com/faialotaibi/github-actions-c.git
